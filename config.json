@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "id": "a1dd72ac-8d7b-4ffe-a475-c20e58defc64",
+            "id": "57539a40-3012-4d75-b4f8-b8a45bf1b6f4",
             "flow": ""
           }
         ],
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/မောင်သုည",
+          "path": "/evtvip",
           "headers": {
             "Host": ""
           }
